@@ -1,0 +1,3 @@
+HTTP_PROXY=http://himanshu_gupta01:india4g%24@indchnshlb04intpxy02.ad.infosys.com:80
+HTTPS_PROXY=http://himanshu_gupta01:india4g%24@indchnshlb04intpxy02.ad.infosys.com:80
+NO_PROXY=master.hostname.example.com
